@@ -1,0 +1,30 @@
+{
+   "name": "podio-node",
+   "version": "0.0.1",
+   "description": "A Podio (https://podio.com/) integration nodejs module",
+   "keywords": [
+       "podio",
+       "API"
+   ],
+   "author": {
+       "name": "LAMPDev",
+       "web": "http://www.lamp-dev.com"
+   },
+   "dependencies": {
+       "request": ">=2.0.0"
+   },
+   "license": {
+       "type": "MIT"
+   }, 
+   "repository": {
+       "type": "git",
+       "url": "https://github.com/lampdev/podio-node.git" 
+   }, 
+   "directories": {
+       "examples": "examples",
+       "src": "src"
+   },
+   "engines": {
+       "node": ">=0.6.0"
+   }
+}
